@@ -5,6 +5,8 @@
   bind:unselected="unselected"
 ></printers>
 
+<bluetoothName></bluetoothName>
+
 <view>
   <navigator url="plugin://bluetooth/wifi?connectedName={{connectedName}}">WIFI 配置</navigator>
   <navigator url="plugin://bluetooth/name?connectedName={{connectedName}}">蓝牙名称设置</navigator>
