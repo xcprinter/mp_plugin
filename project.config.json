@@ -39,5 +39,6 @@
     "tabSize": 2
   },
   "simulatorPluginLibVersion": {},
-  "pluginAppid": "wxcdcb0fa80cf4c2c9"
+  "pluginAppid": "wxcdcb0fa80cf4c2c9",
+  "isGameTourist": false
 }
