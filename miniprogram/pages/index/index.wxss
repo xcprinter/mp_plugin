@@ -6,6 +6,14 @@ navigator {
   border-radius: 5px;
 }
 
+.mt-4 {
+  margin-top: 1rem;
+}
+
+.mb-4 {
+  margin-bottom: 1rem;
+}
+
 #printers {
   height: 22em;
 }

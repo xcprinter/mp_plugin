@@ -3,9 +3,10 @@
   deviceName="XC-,Xc-,PRINTER,Printer,Zhou"
   bind:selected="selected"
   bind:unselected="unselected"
+  class="mb-4"
 ></printers>
 
-<bluetoothName></bluetoothName>
+<bluetoothName class="mt-4"></bluetoothName>
 
 <view>
   <navigator url="plugin://bluetooth/wifi?connectedName={{connectedName}}">WIFI 配置</navigator>
