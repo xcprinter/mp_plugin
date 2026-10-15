@@ -1,6 +1,6 @@
 <printers
   id="printers"
-  deviceName="XC-,Xc-,PRINTER,Printer,Zhou"
+  deviceName=""
   bind:selected="selected"
   bind:unselected="unselected"
   class="mb-4"
