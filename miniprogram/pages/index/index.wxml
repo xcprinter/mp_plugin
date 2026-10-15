@@ -1,6 +1,5 @@
 <printers
   id="printers"
-  deviceName=""
   bind:selected="selected"
   bind:unselected="unselected"
   class="mb-4"
